@@ -54,10 +54,10 @@ HAVDEF is a deepfake detection system built to identify AI-generated voice fraud
 
 ## 🧩 System Architecture
 
-<p align="center">
-<img src="<img width="365" height="824" alt="image" src="https://github.com/user-attachments/assets/dbcc3a66-9bc4-40b4-bdeb-026bf86810be" />
-" width="600" alt="System Architecture Diagram"/>
-</p>
+## 🧩 System Architecture
+
+![System Architecture](<img width="335" height="805" alt="image" src="https://github.com/user-attachments/assets/30b4d48d-f7dd-4ccd-ae0b-b7e86f434b45" />
+)
 
 
 
