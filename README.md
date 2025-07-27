@@ -37,18 +37,6 @@ HAVDEF is a deepfake detection system built to identify AI-generated voice fraud
 
 ---
 
-## 📽️ Demo
-
-> 🧪 Real-time detection animation (placeholder)
-
-<p align="center">
-  <img src="https://github.com/shivane1/HAVDEF/assets/demo.gif" width="700" alt="HAVDEF Demo"/>
-</p>
-
-> *Add a `.gif` or `.mp4` to `/assets/demo.gif` after recording the app in action.*
-
----
-
 
 
 
