@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivane1/HAVDEF/main/assets/havdef-logo.png" height="140" alt="HAVDEF Logo"/>
-</p>
-
 <h1 align="center">HAVDEF – Hindi Audio-Visual Deepfake Defense</h1>
 <p align="center">
   🚨 Real-time detection of AI-generated voice fraud calls in Hinglish using Deep Learning 🚨 <br>
@@ -53,20 +49,6 @@ HAVDEF is a deepfake detection system built to identify AI-generated voice fraud
 
 ---
 
-## 🧩 System Architecture
-
-```mermaid
-flowchart TD
-    A[User Phone Call Input] --> B[Audio Signal Capture]
-    B --> C[Preprocessing & Noise Filtering]
-    C --> D[Spectrogram Generation]
-    D --> E[Deep Learning Model (CNN)]
-    E --> F[Prediction: Human or Deepfake]
-    F --> G[Real-Time Alert UI/API]
-
-
-
-
 # Clone the repository
 git clone https://github.com/shivane1/HAVDEF.git
 cd HAVDEF
@@ -80,3 +62,20 @@ pip install -r requirements.txt
 
 # Run the Flask server
 python app.py
+
+
+
+
+
+
+``mermaid
+flowchart TD
+    A[User Phone Call Input] --> B[Audio Signal Capture]
+    B --> C[Preprocessing & Noise Filtering]
+    C --> D[Spectrogram Generation]
+    D --> E[Deep Learning Model (CNN)]
+    E --> F[Prediction: Human or Deepfake]
+    F --> G[Real-Time Alert UI/API]
+
+
+
