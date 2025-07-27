@@ -49,6 +49,19 @@ HAVDEF is a deepfake detection system built to identify AI-generated voice fraud
 
 ---
 
+
+
+
+## 🧩 System Architecture
+
+<p align="center">
+<img src="<img width="365" height="824" alt="image" src="https://github.com/user-attachments/assets/dbcc3a66-9bc4-40b4-bdeb-026bf86810be" />
+" width="600" alt="System Architecture Diagram"/>
+</p>
+
+
+
+
 # Clone the repository
 git clone https://github.com/shivane1/HAVDEF.git
 cd HAVDEF
@@ -68,14 +81,7 @@ python app.py
 
 
 
-``mermaid
-flowchart TD
-    A[User Phone Call Input] --> B[Audio Signal Capture]
-    B --> C[Preprocessing & Noise Filtering]
-    C --> D[Spectrogram Generation]
-    D --> E[Deep Learning Model (CNN)]
-    E --> F[Prediction: Human or Deepfake]
-    F --> G[Real-Time Alert UI/API]
+
 
 
 
