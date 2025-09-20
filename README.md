@@ -62,6 +62,9 @@ The system relies entirely on software-based methods (no hardware dependency), a
 
 ---
 
+Link: https://prodready-path.lovable.app/
+
+
 ## 🚀 Quickstart
 
 ```bash
@@ -78,3 +81,4 @@ pip install -r requirements.txt
 
 # Run the Flask server
 python app.py
+
